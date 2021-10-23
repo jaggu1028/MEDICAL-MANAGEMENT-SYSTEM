@@ -5,12 +5,18 @@ Project in Medical Management System : Medical Shop Management System is an appl
 
 CODE:-
 #include<stdio.h>
+
 #include<conio.h>
+
 int main ()
+
 {
-	int c_id,age,m_id,qty,x;
-	float cost,t_cost;
-	char c_name[20],c_type,m_name[20],comp_name[20],s_name[20];
+
+int c_id,age,m_id,qty,x;
+
+float cost,t_cost;
+
+char c_name[20],c_type,m_name[20],comp_name[20],s_name[20];
 
 	
 	
